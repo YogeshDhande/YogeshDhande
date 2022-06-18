@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YogeshDhande
 - 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript, Angular, Java
 - 💞️ I’m looking to collaborate on Open_Source Project
 - 📫 How to reach me 
 
